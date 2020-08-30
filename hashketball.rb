@@ -43,5 +43,5 @@ def game_hash
         :assists => 6
         }
           ]
-    }
+    },
   }
