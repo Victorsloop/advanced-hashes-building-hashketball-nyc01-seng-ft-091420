@@ -42,6 +42,7 @@ def game_hash
         :rebounds => 11, 
         :assists => 6
         }
-          }]
+          }
+          ]
     }
   }
